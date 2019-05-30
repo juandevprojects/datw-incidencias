@@ -1,0 +1,8 @@
+body{
+    background-image: url(../img/flat-2126880.svg);
+    background-size: 120px !important;
+}
+.card{
+    opacity: .95;
+    padding: 0px !important;
+}
